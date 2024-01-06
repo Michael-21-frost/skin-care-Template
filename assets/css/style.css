@@ -392,7 +392,7 @@ body {
 
 .header-top.active {
   position: fixed;
-  top: -80px;
+  top: -100px;
   bottom: auto;
   box-shadow: var(--shadow-1);
   transform: translateY(100%);
@@ -409,7 +409,7 @@ body {
   align-items: center;
   gap: 20px;
 }
-.header-logo h1{
+.header-logo h2{
   position: absolute;
   top: 50%;
   left: 50%;
@@ -476,7 +476,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-block-end: 55px;
+  margin-block-end: 50px;
 }
 
 .nav-close-btn {
@@ -1001,6 +1001,7 @@ body {
     width: 100%;
     margin-inline: auto;
   }
+  
 
   :is(.header, .hero) .container { max-width: unset; }
 
