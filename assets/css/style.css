@@ -11,6 +11,7 @@
 Acquired and modified by OTOTECH INDUSTRIES CEO: MICHAEL OTOTE UNDER MIT LICENCE
 
 edit rights 2023 OTOTECH INDUSTRIES
+Modifaction and usage licence (RG2107806012024)
 */
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -534,6 +535,7 @@ body {
 .hero-text {
   font-size: var(--fs-6);
   margin-block: 16px 30px;
+  color: rgb(71, 71, 71);
 }
 
 .hero .price {
